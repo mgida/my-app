@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270182331082",
+    "firebase_url": "https://popmovies-c9feb.firebaseio.com",
+    "project_id": "popmovies-c9feb",
+    "storage_bucket": "popmovies-c9feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270182331082:android:b9a91bbf6a9ff821",
+        "android_client_info": {
+          "package_name": "com.example.android.popmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270182331082-12kt7fkptcs87f2nj9d9q514trt1369o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.popmovies",
+            "certificate_hash": "8b8c58fbfa9772c7902b73447415af44e8804dc1"
+          }
+        },
+        {
+          "client_id": "270182331082-6tsoamtu45ijq56grje32s2u4c608op9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBjyHl48dvD9IuOAQdUJh7YzAQviDrn8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270182331082-6tsoamtu45ijq56grje32s2u4c608op9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

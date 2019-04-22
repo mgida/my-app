@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="Favourites">Favourites</string>
+    <string name="tv_error">failed,check your connection and try again</string>
+    <string name="Date">Release Date:</string>
+    <string name="Rate">Rate:</string>
+    <string name="Trailers">Trailers :</string>
+    <string name="Reviews">Reviews :</string>
+    <string name="Author">Author :</string>
+    <string name="content">content :</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="movie_title">pulp fiction </string>
+    <string name="last_movie">last_movie</string>
+    <string name="added_to_fav">added to favourites</string>
+    <string name="removed_from_fav">removed from favourites</string>
+
+</resources>
